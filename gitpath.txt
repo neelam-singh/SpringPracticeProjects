@@ -1,3 +1,12 @@
 https://github.com/eswaribala/rps_cts_springbatch_2018
 
 https://start.spring.io/
+
+https://docs.spring.io/spring-integration/reference/html/overview.html
+
+http://localhost:8161---manage active queues
+
+
+*****fake URL******
+https://restcountries.eu/
+https://jsonplaceholder.typicode.com/posts
