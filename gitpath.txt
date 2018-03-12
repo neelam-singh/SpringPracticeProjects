@@ -10,3 +10,6 @@ http://localhost:8161---manage active queues
 *****fake URL******
 https://restcountries.eu/
 https://jsonplaceholder.typicode.com/posts
+
+***********************************************
+https://dzone.com/refcardz/spring-batch-refcard?chapter=1
